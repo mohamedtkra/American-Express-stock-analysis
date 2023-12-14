@@ -1,0 +1,1 @@
+I for this project decided to analyze the American Express stock. I was able to pull my data from yahoo finance and made some analysis using machine learning and finally tried to improve accuracy of my model.
